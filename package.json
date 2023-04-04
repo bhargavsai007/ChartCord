@@ -4,7 +4,7 @@
   "description": "Real time chart app with rooms",
   "main": "server.js",
   "scripts": {
-    "start": "ndoe server",
+    "start": "node server",
     "dev": "nodemon server"
   },
   "repository": {
